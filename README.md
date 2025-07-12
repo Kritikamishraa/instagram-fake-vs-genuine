@@ -1,7 +1,7 @@
-# Retry generating the README file now that tool access is restored
+
 
 # Content for the Instagram Fake vs Genuine Account Analysis README
-readme_content = """
+
 # 📱 Instagram Fake vs Genuine Account Analysis
 
 This project analyzes Instagram account-level data to distinguish between fake and genuine profiles using Exploratory Data Analysis (EDA) techniques in Python.
