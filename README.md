@@ -1,6 +1,5 @@
 
 
-# Content for the Instagram Fake vs Genuine Account Analysis README
 
 # 📱 Instagram Fake vs Genuine Account Analysis
 
